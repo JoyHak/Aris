@@ -782,6 +782,14 @@
 			"license": "MIT",
 			"repository": "iseahound/TextRender/main"
 		},
+        "JoyHak/Build.ahk": {
+			"description": "Builds AHK script, it's dependencies into (self-extracting) archive.",
+			"files": "GetInterpreter/*.*",
+			"main": "Build.ahk",
+			"homepage": "https://github.com/JoyHak/QuickSwitch/blob/main/Utilities",
+			"license": "MIT",
+			"repository": "JoyHak/QuickSwitch/blob/main/Utilities"
+		},
 		"jNizM/DNSQuery": {
 			"description": "Retrieves the Resource Record (RR) depends on DNS Record Type",
 			"files": "src/Network/DNSQuery.ahk",
